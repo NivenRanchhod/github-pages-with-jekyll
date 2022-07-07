@@ -1,5 +1,5 @@
 ---
-title: "Firts test blog"
+title: "First test blog"
 date: 2022-07-07
 ---
 
